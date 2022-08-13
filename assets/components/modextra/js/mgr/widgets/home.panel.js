@@ -3,6 +3,7 @@ ModExtra.panel.Home = function (config) {
     Ext.apply(config, {
         baseCls: 'modx-formpanel',
         layout: 'anchor',
+        cls: 'container',
         /*
          stateful: true,
          stateId: 'modextra-panel-home',
